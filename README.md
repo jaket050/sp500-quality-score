@@ -5,7 +5,7 @@
 ---
 
 ## Dashboard Preview
-**[View Live Interactive Dashboard](your-tableau-public-url-here)**
+**[View Live Interactive Dashboard](https://public.tableau.com/app/profile/jake.tangonan/viz/SP500qualityScore/ExecutiveView)**
 
 ### Page 1 — Executive View: S&P 500 Quality Score Analysis
 ![Executive Dashboard](visuals/Screenshot%202026-02-03%20123325.png)
