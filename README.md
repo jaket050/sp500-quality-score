@@ -5,6 +5,7 @@
 ---
 
 ## Dashboard Preview
+**[View Live Interactive Dashboard](your-tableau-public-url-here)**
 
 ### Page 1 — Executive View: S&P 500 Quality Score Analysis
 ![Executive Dashboard](visuals/Screenshot%202026-02-03%20123325.png)
